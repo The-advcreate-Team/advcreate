@@ -3,12 +3,12 @@
     url = https://github.com/The-advcreate-Team/advcreate-CreateForge
 
 [submodule "advcreateflywheel"]
-    path = advcreateflywheel
-    url = https://github.com/The-advcreate-Team/advcreateflywheel
+	path = advcreateflywheel
+	url = https://github.com/The-advcreate-Team/advcreateflywheel
 
 [submodule "advcreate-architectury-api"]
-    path = advcreate-architectury-api
-    url = https://github.com/The-advcreate-Team/advcreate-architectury-api
+	path = advcreate-architectury-api
+	url = https://github.com/The-advcreate-Team/advcreate-architectury-api
 
 [submodule "advcreate-CreateFabric"]
     path = advcreate-CreateFabric
